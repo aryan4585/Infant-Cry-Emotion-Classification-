@@ -56,5 +56,5 @@ If you wish to contribute to this project:
 2. Create a new branch for your feature or fix.
 3. Submit a pull request with a detailed description of your changes.
 
-##Contact
-For questions or feedback, please reach out to your-aryansharma6012@gmail.com.
+## Contact
+For questions or feedback, please reach out to aryansharma6012@gmail.com.
