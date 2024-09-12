@@ -39,6 +39,22 @@ The **Infant Cry and Emotion Classification** project aims to recognize and clas
 
 ## Usage
 
-**PyQt5: ** All functionalities are accessible through our PyQt5 application. This app provides a graphical user interface to interact with the cry classification and emotion detection features.
+**PyQt5**: All functionalities are accessible through our PyQt5 application. This app provides a graphical user interface to interact with the cry classification and emotion detection features.
 
 ## Project Structure
+- **Cry Dataset**: Directory for input files and test data.
+- **app.py**: Main script to run the PyQt5 interface.
+- **cry_recognition_model.pkl**: Saved SVC based Cry Classification model.
+- **ICR_model.ipynb**: Script for cry classification using the SVC model.
+- **label_encoder.pkl**: Saved file of label encoder for Cry classification model.
+- **requirements.txt**: List of Python dependencies.
+
+## Contributing
+If you wish to contribute to this project:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Submit a pull request with a detailed description of your changes.
+
+##Contact
+For questions or feedback, please reach out to your-aryansharma6012@gmail.com.
