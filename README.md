@@ -4,6 +4,14 @@
 
 The **Infant Cry and Emotion Classification** project aims to recognize and classify infant cries and detect emotions from facial expressions using machine learning techniques. The project integrates a cry classification system with facial emotion detection to provide a comprehensive analysis of infant and emotional states.
 
+## Cry Classification Model
+
+The cry classification model currently achieves an accuracy of 70%. This is due to the limited dataset available and the model's classification into only two categories: "hungry" and "discomfort." 
+
+## Emotion Recognition
+
+The emotion recognition component of the application uses the DeepFace library to analyze and classify emotions from facial expressions in images and videos.
+
 ## Features
 
 - **Infant Cry Classification**: Utilizes a Support Vector Classification (SVC) model to classify different types of infant cries.
