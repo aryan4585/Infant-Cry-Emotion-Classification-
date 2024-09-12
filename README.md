@@ -19,6 +19,7 @@ The **Infant Cry and Emotion Classification** project aims to recognize and clas
   - `scikit-learn` for machine learning
   - `joblib` for model serialization
   - `sounddevice` and `scipy` for audio recording (if applicable)
+  - `PyQt5`for creating graphical user interface
 - **Interface**: PyQt5 for creating interactive web-based applications
 
 ## Installation
@@ -29,9 +30,15 @@ The **Infant Cry and Emotion Classification** project aims to recognize and clas
 2. Navigate to the project directory:
    ```bash
    cd Infant-Cry-Emotion-Classification
-2. Install the required dependencies:
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-2. Install the required dependencies:
+4. Run the application:
    ```bash
-   pip install -r requirements.txt
+   app.py
+
+## Usage
+
+**PyQt5: ** All functionalities are accessible through our PyQt5 application. This app provides a graphical user interface to interact with the cry classification and emotion detection features.
+
+## Project Structure
