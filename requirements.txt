@@ -1,0 +1,13 @@
+os
+numpy 
+librosa
+joblib
+matplotlib
+Scikit-learn
+sys
+cv2
+sounddevice
+SciPy
+from scipy.io.wavfile import write
+deepface 
+PyQt5
