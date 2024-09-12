@@ -42,7 +42,7 @@ The **Infant Cry and Emotion Classification** project aims to recognize and clas
 **PyQt5**: All functionalities are accessible through our PyQt5 application. This app provides a graphical user 
 interface to interact with the cry classification and emotion detection features.
 
-![Image](images/GUI_Interface.png)
+![Image](Infant-Cry-Emotion-Classification-/Images/GUI_Interface.png)
 
 ## Project Structure
 - **Cry Dataset**: Directory for input files and test data.
